@@ -21,7 +21,7 @@ function Box({className='', size, style, ...otherProps}){
 }
 
 const smallBox = (
-<Box size="small" style={{backgroundColor: 'lightblue'}}>small lightblue box</Box>
+<Box size="small" style={{backgroundColor: 'aliceblue'}}>small lightblue box</Box>
 )
 const mediumBox = (
 <Box size='medium' style={{backgroundColor: 'pink'}}>medium pink box</Box>
